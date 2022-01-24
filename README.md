@@ -4,7 +4,11 @@ Tiny85 digispark, with micronucleaus 2.6, the IR remote testing
 https://github.com/xiaolaba/AVR_Attiny85_micronucleus_2.x_blink
 
 
-Tiny85, PB4 (USB D+) for IR signal output  
+Tiny85, PB4 (USB D+) for IR signal output.
+digispark, PB1 used for LED, will blink too.
+![https://github.com/xiaolaba/AVR_Attiny85_micronucleus_2.x_blink/blob/master/clone_digispark_rev.3_PCB_circuit.jpg](https://github.com/xiaolaba/AVR_Attiny85_micronucleus_2.x_blink/blob/master/clone_digispark_rev.3_PCB_circuit.jpg)
+
+
 
 
 ### intall 2 libraries first from Arduino IDE & library manager
