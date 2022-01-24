@@ -5,7 +5,7 @@ https://github.com/xiaolaba/AVR_Attiny85_micronucleus_2.x_blink
 
 
 Tiny85, PB4 (USB D+) for IR signal output.
-digispark, PB1 used for LED, will blink too.
+digispark, PB1 used for LED (D2), will blink too.
 ![https://github.com/xiaolaba/AVR_Attiny85_micronucleus_2.x_blink/blob/master/clone_digispark_rev.3_PCB_circuit.jpg](https://github.com/xiaolaba/AVR_Attiny85_micronucleus_2.x_blink/blob/master/clone_digispark_rev.3_PCB_circuit.jpg)
 
 
