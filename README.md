@@ -1,8 +1,10 @@
 # Tiny85_IRremote_ATtinySerialOut
-Tiny85 with micronucleaus 2.6, the IR remote testing  
+Tiny85 digispark, with micronucleaus 2.6, the IR remote testing  
+
+https://github.com/xiaolaba/AVR_Attiny85_micronucleus_2.x_blink
 
 
-Tiny85, PB4 for IR signal output  
+Tiny85, PB4 (USB D+) for IR signal output  
 
 
 ### intall 2 libraries first from Arduino IDE & library manager
@@ -25,4 +27,7 @@ ATtinySerialOut
 #error F_CPU value must be 1000000, 8000000 or 16000000, or 16500000
 #endif
 ```
+
+### SimpleSender.cpp  
+open the example to build  
 
