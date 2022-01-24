@@ -11,14 +11,14 @@ digispark, PB1 used for LED (D2), will blink too.
 
 
 
-### intall 2 libraries first from Arduino IDE & library manager
-Arduino-IRremote
-ATtinySerialOut
+### intall 2 libraries first from Arduino IDE & library manager  
+Arduino-IRremote  
+ATtinySerialOut  
 
-### open folder of library ATtinySerialOut installed
-%USERPROFILE%\Documents\Arduino\libraries\ATtinySerialOut\src
+### open folder of library ATtinySerialOut installed  
+%USERPROFILE%\Documents\Arduino\libraries\ATtinySerialOut\src  
 
-### edit ATtinySerialOut.h to support 16,5MHz for Tiny85 & micronucleaus
+### edit ATtinySerialOut.h to support 16,5MHz for Tiny85 & micronucleaus  
 
 ```
 /%
@@ -32,6 +32,6 @@ ATtinySerialOut
 #endif
 ```
 
-### SimpleSender.cpp  
+### SimpleSender.cpp    
 open the example to build  
 
